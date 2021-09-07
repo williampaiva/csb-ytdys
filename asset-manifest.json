@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://williampaiva.github.io/csb-ytdys/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://williampaiva.github.io/csb-ytdys/static/js/main.51205df0.chunk.js",
+    "main.js.map": "https://williampaiva.github.io/csb-ytdys/static/js/main.51205df0.chunk.js.map",
+    "runtime-main.js": "https://williampaiva.github.io/csb-ytdys/static/js/runtime-main.9f8df64f.js",
+    "runtime-main.js.map": "https://williampaiva.github.io/csb-ytdys/static/js/runtime-main.9f8df64f.js.map",
+    "static/js/2.03c33ab1.chunk.js": "https://williampaiva.github.io/csb-ytdys/static/js/2.03c33ab1.chunk.js",
+    "static/js/2.03c33ab1.chunk.js.map": "https://williampaiva.github.io/csb-ytdys/static/js/2.03c33ab1.chunk.js.map",
+    "index.html": "https://williampaiva.github.io/csb-ytdys/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://williampaiva.github.io/csb-ytdys/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.03c33ab1.chunk.js.LICENSE.txt": "https://williampaiva.github.io/csb-ytdys/static/js/2.03c33ab1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f8df64f.js",
+    "static/js/2.03c33ab1.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.51205df0.chunk.js"
+  ]
+}
